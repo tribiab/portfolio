@@ -9,6 +9,7 @@ A.S - Chemistry
 
 ## **Projects & Technical Experience**
 ### [**”Socioeconomic Status Map”(US Census Tract)**](https://olsenbt.github.io/air-quality-map/map4.html) 
+![Socioeconomic Map](/assets/socioMap.png)
  >● Engineered and deployed an efficient ETL pipeline using Microsoft Azure PostgreSQL and pgAdmin .
  Preprocessed the original data and merged 4 large census datasets.   
  ● Utilized QGIS to perform inner joins on data to Census shapefiles, producing a compelling choropleth map for
