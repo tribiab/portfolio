@@ -1,5 +1,6 @@
 
 # **Data Scientist / Data Engineer / GIS Specialist**
+![headshot](/assets/headshot.png)
 <https://www.linkedin.com/in/trevorpnguyen/>
 
 ## **Education**
