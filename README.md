@@ -1,6 +1,6 @@
 
 # **Data Scientist / Data Engineer / GIS Specialist**
-<https://www.linkedin.com/in/trevorpnguyen/>
+![LinkedIn](https://www.linkedin.com/in/trevorpnguyen/)
 
 ## **Education**
 
