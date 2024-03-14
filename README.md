@@ -20,7 +20,7 @@ A.S - Chemistry
  trends from complex datasets, focusing on entertaining storytelling to enhance data-driven decision making.
  Deployed via GitHUB for wider accessibility.   
  
- ### *“Social Media Addiction” (EDA)*  
+### *“Social Media Addiction” (EDA)*  
  >● Designed a realistic mock study to make an argument, defining the mode of observation, units of analysis and
  observation, sample type, scale of measurement, timetable, and budget.  
  ● Conducted extensive literature reviews on 10+ academic papers to advance the current understandings of
@@ -36,7 +36,7 @@ A.S - Chemistry
 > ● Engaged virtually with 500+ audience members while speaking clearly and confidently. Entertaining the
  audience and connecting with them through charm and humor-- energizing the atmosphere.  
 
- ### University of Washington Esports
+### University of Washington Esports
  “Multimedia Esports Outreach Coordinator”
  Seattle, WA
  2021 - 2022  
